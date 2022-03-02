@@ -1,0 +1,146 @@
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.exe
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.pdb
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.LoginForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.Properties.Resources.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.exe
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.pdb
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.MainForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddNewStudentForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StudentsListForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.UpdateDeleteStudentForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RegisterForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StaticsForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageStudentsForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RemoveCourseForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddCourseForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditCourseForm.resources
+C:\Users\HP\source\repos\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintStudentForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csprojAssemblyReference.cache
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.ResolveComReference.cache
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddCourseForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditCourseForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageStudentsForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddNewStudentForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.LoginForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.MainForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintStudentForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.Properties.Resources.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RegisterForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StaticsForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StudentsListForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.UpdateDeleteStudentForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RemoveCourseForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.GenerateResource.cache
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.CoreCompileInputs.cache
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.exe
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.pdb
+G:\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.exe.config
+G:\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.exe
+G:\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.pdb
+G:\ProjectQLSV\ProjectQLSV\bin\Debug\NLipsum.Core.dll
+G:\ProjectQLSV\ProjectQLSV\bin\Debug\NLipsum.Core.xml
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.CopyComplete
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddScoreForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.avgScoreByCourseForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageScoreForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageCourseForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintCourseForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RemoveScoreForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintScoreForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AvgResultByScoreForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StaticResultForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddContactForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditContactForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.SelectContactForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ShowFullContactForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditInfoForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.HRMainForm.resources
+G:\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RegisterSTDForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.exe.config
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.exe
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.pdb
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\NLipsum.Core.dll
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\NLipsum.Core.xml
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csprojAssemblyReference.cache
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddContactForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditContactForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.SelectContactForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ShowFullContactForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RegisterSTDForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditInfoForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.HRMainForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AvgResultByScoreForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintScoreForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddScoreForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.avgScoreByCourseForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageScoreForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageCourseForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintCourseForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddCourseForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditCourseForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageStudentsForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddNewStudentForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.LoginForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.MainForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintStudentForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.Properties.Resources.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RegisterForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StaticsForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StudentsListForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.UpdateDeleteStudentForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RemoveCourseForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RemoveScoreForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StaticResultForm.resources
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.GenerateResource.cache
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.CopyComplete
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.exe
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.pdb
+C:\Users\HP\Documents\HOC TẬP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ListByGroup.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.exe.config
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.exe
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\ProjectQLSV.pdb
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\NLipsum.Core.dll
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\bin\Debug\NLipsum.Core.xml
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csprojAssemblyReference.cache
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.ResolveComReference.cache
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddContactForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditContactForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.SelectContactForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ShowFullContactForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ListByGroup.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RegisterSTDForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditInfoForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.HRMainForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AvgResultByScoreForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintScoreForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddScoreForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.avgScoreByCourseForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageScoreForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageCourseForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintCourseForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddCourseForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.EditCourseForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.ManageStudentsForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.AddNewStudentForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.LoginForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.MainForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.PrintStudentForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.Properties.Resources.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RegisterForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StaticsForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StudentsListForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.UpdateDeleteStudentForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RemoveCourseForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.RemoveScoreForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.StaticResultForm.resources
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.GenerateResource.cache
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.CoreCompileInputs.cache
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.csproj.CopyComplete
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.exe
+G:\HOCTAP\HK4\LT Windows\ProjectQLSV\ProjectQLSV\obj\Debug\ProjectQLSV.pdb

@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CEB16542-9229-46FC-8019-879C137AFA44}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjectQLSV</RootNamespace>
+    <AssemblyName>ProjectQLSV</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <HintPath>C:\Users\HP\Downloads\Microsoft.CSharp\Microsoft.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word1">
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Word\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="NLipsum.Core, Version=1.1.0.0, Culture=neutral, PublicKeyToken=593e1df460e1bda0, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLipsum.1.1.0\lib\net20\NLipsum.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CONTACT\AddContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTACT\AddContactForm.Designer.cs">
+      <DependentUpon>AddContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTACT\Contact.cs" />
+    <Compile Include="CONTACT\EditContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTACT\EditContactForm.Designer.cs">
+      <DependentUpon>EditContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTACT\SelectContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTACT\SelectContactForm.Designer.cs">
+      <DependentUpon>SelectContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTACT\ShowFullContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTACT\ShowFullContactForm.Designer.cs">
+      <DependentUpon>ShowFullContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GROUP\ListByGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GROUP\ListByGroup.Designer.cs">
+      <DependentUpon>ListByGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Reg\RegisterSTDForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Reg\RegisterSTDForm.Designer.cs">
+      <DependentUpon>RegisterSTDForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\EditInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\EditInfoForm.Designer.cs">
+      <DependentUpon>EditInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Globals.cs" />
+    <Compile Include="GROUP\Group.cs" />
+    <Compile Include="MAIN\HRMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN\HRMainForm.Designer.cs">
+      <DependentUpon>HRMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RESULT\AvgResultByScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESULT\AvgResultByScoreForm.Designer.cs">
+      <DependentUpon>AvgResultByScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE\PrintScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE\PrintScoreForm.Designer.cs">
+      <DependentUpon>PrintScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE\AddScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE\AddScoreForm.Designer.cs">
+      <DependentUpon>AddScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE\avgScoreByCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE\avgScoreByCourseForm.Designer.cs">
+      <DependentUpon>avgScoreByCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE\ManageScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE\ManageScoreForm.Designer.cs">
+      <DependentUpon>ManageScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE\ManageCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE\ManageCourseForm.Designer.cs">
+      <DependentUpon>ManageCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE\PrintCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE\PrintCourseForm.Designer.cs">
+      <DependentUpon>PrintCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE\AddCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE\AddCourseForm.Designer.cs">
+      <DependentUpon>AddCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE\COURSE.cs" />
+    <Compile Include="COURSE\EditCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE\EditCourseForm.Designer.cs">
+      <DependentUpon>EditCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT\ManageStudentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT\ManageStudentsForm.Designer.cs">
+      <DependentUpon>ManageStudentsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT\AddNewStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT\AddNewStudentForm.Designer.cs">
+      <DependentUpon>AddNewStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Reg\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Reg\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MY_DB.cs" />
+    <Compile Include="STUDENT\PrintStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT\PrintStudentForm.Designer.cs">
+      <DependentUpon>PrintStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Login_Reg\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Reg\RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT\StaticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT\StaticsForm.Designer.cs">
+      <DependentUpon>StaticsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT\STUDENT.cs" />
+    <Compile Include="STUDENT\StudentsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT\StudentsListForm.Designer.cs">
+      <DependentUpon>StudentsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT\UpdateDeleteStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT\UpdateDeleteStudentForm.Designer.cs">
+      <DependentUpon>UpdateDeleteStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE\RemoveCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE\RemoveCourseForm.Designer.cs">
+      <DependentUpon>RemoveCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE\RemoveScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE\RemoveScoreForm.Designer.cs">
+      <DependentUpon>RemoveScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE\SCORE.cs" />
+    <Compile Include="RESULT\StaticResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESULT\StaticResultForm.Designer.cs">
+      <DependentUpon>StaticResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\User.cs" />
+    <EmbeddedResource Include="CONTACT\AddContactForm.resx">
+      <DependentUpon>AddContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTACT\EditContactForm.resx">
+      <DependentUpon>EditContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTACT\SelectContactForm.resx">
+      <DependentUpon>SelectContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTACT\ShowFullContactForm.resx">
+      <DependentUpon>ShowFullContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GROUP\ListByGroup.resx">
+      <DependentUpon>ListByGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Reg\RegisterSTDForm.resx">
+      <DependentUpon>RegisterSTDForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\EditInfoForm.resx">
+      <DependentUpon>EditInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN\HRMainForm.resx">
+      <DependentUpon>HRMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESULT\AvgResultByScoreForm.resx">
+      <DependentUpon>AvgResultByScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE\PrintScoreForm.resx">
+      <DependentUpon>PrintScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE\AddScoreForm.resx">
+      <DependentUpon>AddScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE\avgScoreByCourseForm.resx">
+      <DependentUpon>avgScoreByCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE\ManageScoreForm.resx">
+      <DependentUpon>ManageScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE\ManageCourseForm.resx">
+      <DependentUpon>ManageCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE\PrintCourseForm.resx">
+      <DependentUpon>PrintCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE\AddCourseForm.resx">
+      <DependentUpon>AddCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE\EditCourseForm.resx">
+      <DependentUpon>EditCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT\ManageStudentsForm.resx">
+      <DependentUpon>ManageStudentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT\AddNewStudentForm.resx">
+      <DependentUpon>AddNewStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Reg\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT\PrintStudentForm.resx">
+      <DependentUpon>PrintStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Login_Reg\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT\StaticsForm.resx">
+      <DependentUpon>StaticsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT\StudentsListForm.resx">
+      <DependentUpon>StudentsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT\UpdateDeleteStudentForm.resx">
+      <DependentUpon>UpdateDeleteStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE\RemoveCourseForm.resx">
+      <DependentUpon>RemoveCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE\RemoveScoreForm.resx">
+      <DependentUpon>RemoveScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESULT\StaticResultForm.resx">
+      <DependentUpon>StaticResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
